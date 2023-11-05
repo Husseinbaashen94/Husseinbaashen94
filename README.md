@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Husseinbaashen94
 - 👀 I’m interested in learning in new ways to conquer the testing and qa world, and teaching others the way to do it
-- 🌱 I’m currently learning cypress, jest, and mocha frameworks for automation testing techniques
+- 🌱 I’m currently learning playwright framework for automation testing techniques
+- 👨‍🦯 I’m currently learning typescript & javascript languages for automation testing techniques
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me, by emailing me or dm my twitter account
 
