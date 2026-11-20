@@ -1,15 +1,27 @@
 <h1 align="center">Hi, I'm Hussein 👋</h1>
-<h3 align="center">QA Lead · Test Automation Engineer · Kuala Lumpur 🇲🇾</h3>
+<h3 align="center">QA Lead · Test Automation Engineer · AI Automation Builder · Kuala Lumpur 🇲🇾</h3>
 
 <p align="center">
   I build test automation that teams can trust, across UI, API, performance and security,<br>
-  and I enjoy teaching others how to do it.
+  and AI-powered business automations on n8n, Make and Zapier that <b>come with tests proving they work</b>.
 </p>
 
 <p align="center">
   <a href="https://medium.com/@husseinbaashen"><img src="https://img.shields.io/badge/Medium-Blog-000000?logo=medium&logoColor=white" alt="Medium blog"></a>
-  <img src="https://img.shields.io/badge/Open%20to-freelance%20QA%20projects-2ea44f" alt="Open to freelance QA projects">
+  <img src="https://img.shields.io/badge/Open%20to-freelance%20QA%20%26%20automation%20projects-2ea44f" alt="Open to freelance QA and automation projects">
 </p>
+
+---
+
+## 🤖 AI business automation, delivered with tests
+
+Automations that take real work off a team, built with **Claude** on the no-code platforms clients already use. Each has a **2-minute demo that needs no accounts**, a step-by-step setup guide, and tests that prove the logic works. Most automation freelancers don't offer that.
+
+| Project | Platform | What it does for a business | Proof |
+|---|---|---|---|
+| [**n8n-ai-sales-lead-qualifier**](https://github.com/Husseinbaashen94/n8n-ai-sales-lead-qualifier)<br>![CI](https://github.com/Husseinbaashen94/n8n-ai-sales-lead-qualifier/actions/workflows/ci.yml/badge.svg) | n8n | **Sales:** every inbound lead scored, routed and answered in under a minute. Hot → HubSpot + Slack, warm → Gmail draft, cold → nurture sheet, unsure → review | 197 tests, incl. **end-to-end runs of the real workflow in headless n8n** and failure drills (AI refusal, API outage, CRM down) |
+| [**make-ai-content-repurposing**](https://github.com/Husseinbaashen94/make-ai-content-repurposing)<br>![CI](https://github.com/Husseinbaashen94/make-ai-content-repurposing/actions/workflows/ci.yml/badge.svg) | Make.com | **Marketing:** each new blog post becomes a LinkedIn post, an X thread and a newsletter blurb in the brand's voice, waiting for one-click approval | 113 tests: platform limits, **no invented statistics**, and importable blueprints checked against real Make exports |
+| [**zapier-ai-data-extraction**](https://github.com/Husseinbaashen94/zapier-ai-data-extraction)<br>![CI](https://github.com/Husseinbaashen94/zapier-ai-data-extraction/actions/workflows/ci.yml/badge.svg) | Zapier | **Operations:** order, invoice and enquiry emails become clean spreadsheet rows, with anything uncertain sent to a review sheet | 174 tests on the exact Code step pasted into Zapier: **dates and amounts never guessed**, formula injection blocked |
 
 ---
 
@@ -54,6 +66,12 @@ Each project is a complete, CI-ready framework with a step-by-step setup guide. 
 ![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 ![WebPageTest](https://img.shields.io/badge/WebPageTest-1A73E8)
 
+**AI & no-code automation**<br>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?logo=zapier&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
+
 **Languages**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -70,6 +88,6 @@ Each project is a complete, CI-ready framework with a step-by-step setup guide. 
 ## 💬 About me
 
 - 👀 I'm interested in new ways to conquer the testing and QA world, and in teaching others how to do it
-- 🌱 Always expanding what automation can cover: from UI and API to performance and security
+- 🌱 Always expanding what automation can cover: from UI and API to performance, security and AI-powered business workflows
 - ✍️ I write about testing on [Medium](https://medium.com/@husseinbaashen)
-- 💞️ Open to collaborating on **freelance QA automation projects**: reach out through Medium or open an issue on any repo
+- 💞️ Open to **freelance work**: test automation, and AI automations on n8n, Make or Zapier. Reach out through Medium or open an issue on any repo
